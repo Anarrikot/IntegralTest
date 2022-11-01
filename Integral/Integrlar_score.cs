@@ -22,7 +22,7 @@ namespace Integral
             if (test)
                 if (metod == 0)
                 {
-                    double step = (B - A) / N;
+                    double stepEtoBanonchikOchen`Vkusniy = (B - A) / N;
                     double Sum = 0;
                     for (double i = (A + step * 0.5); i <= B; i += step)
                     {
