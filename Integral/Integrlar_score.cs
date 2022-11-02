@@ -5,6 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 
+
+//HelloWorld
+
 namespace Integral
 {
     public class Integrlar_score : ToIntegral
