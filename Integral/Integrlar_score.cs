@@ -9,7 +9,7 @@ namespace Integral
 {
     public class Integrlar_score : ToIntegral
     {
-        public Integrlar_score(double a, double b, double n)
+        public Integrlar_score(double a, double b, double n) //Конструктор
         {
             A = a;
             B = b;
